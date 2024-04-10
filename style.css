@@ -1,0 +1,67 @@
+@import url(file:///C:/Users/Cmervis/New%20folder/index.html);
+
+head{
+
+    text-align: center;
+
+}
+
+
+
+/* Styling the form container */
+body input[type=text] {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 6px 0;
+    box-sizing: border-box;
+  }
+  /* Styling form elements */
+  body {
+    padding: 10px 20px;
+    background-color: #54606d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+   
+  body .ginput_container_list table.gfield_list tbody tr td.gfield_list_icons {
+    vertical-align: middle !important;
+  }
+
+  body .ginput_container_list table.gfield_list tbody tr td.gfield_list_icons img {
+    background-color: transparent !important;
+    background-position: 0 0;
+    background-size: 16px 16px !important;
+    background-repeat: no-repeat;
+    border: none !important;
+    width: 16px !important;
+    height: 16px !important;
+    opacity: 0.5;
+    transition: opacity .5s ease-out;
+      -moz-transition: opacity .5s ease-out;
+      -webkit-transition: opacity .5s ease-out;
+      -o-transition: opacity .5s ease-out;
+  }
+
+  body .ginput_container_list table.gfield_list tbody tr td.gfield_list_icons a:hover img {
+    opacity: 1.0;
+  }
+  
+  /* Styling submit button */
+
+  
+  body .ginput_container_list table.gfield_list tbody tr td.gfield_list_icons img {
+    background-color: transparent !important;
+    background-position: 0 0;
+    background-size: 16px 16px !important;
+    background-repeat: no-repeat;
+    border: none !important;
+    width: 16px !important;
+    height: 16px !important;
+    opacity: 0.5;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
